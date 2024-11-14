@@ -1,4 +1,6 @@
-### study-of-basic-gates
+## Study-of-basic-gates
+#  NAME : KANIYAMUDHAN .V
+# REF NO : 24900925
 
 **AIM:** 
 
@@ -53,7 +55,8 @@ Y= A⊕B
 
 1.	Type the program in Quartus software.
 
-2.	Compile and run the program.
+2.	Compile and run the program)
+
 
 3.	Generate the RTL schematic and save the logic diagram.
 
@@ -64,16 +67,23 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![Screenshot 2024-11-14 132717](https://github.com/user-attachments/assets/a2ed2da0-fbc0-46e6-bab9-379071063132)
 
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![WhatsApp Image 2024-11-14 at 13 34 28_f468f490](https://github.com/user-attachments/assets/e1d1b134-18ac-4bb8-80cc-c9050846d193)
 
-**RTL realization Output:** 
+**TIMING DIAGRAM**
+![Screenshot 2024-10-28 113030](https://github.com/user-attachments/assets/6e786b45-d86a-4ba3-92cc-745c5971ef16)
+
+
+
+
 
 **RTL**
 
-**Result:**
+![Screenshot 2024-10-28 113050](https://github.com/user-attachments/assets/4b32a0af-70bc-4f9b-bcc1-928e336ac06a)
 
+**Result:**
+studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully
 
